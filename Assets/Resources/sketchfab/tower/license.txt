@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eiffel Tower
+* source:	https://sketchfab.com/3d-models/eiffel-tower-bf82a4aedf37486d995774cedfcd9bc7
+* author:	VRJuice (https://sketchfab.com/dr490n)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eiffel Tower" (https://sketchfab.com/3d-models/eiffel-tower-bf82a4aedf37486d995774cedfcd9bc7) by VRJuice (https://sketchfab.com/dr490n) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
